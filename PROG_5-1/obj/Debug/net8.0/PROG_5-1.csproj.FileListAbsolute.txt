@@ -12,3 +12,4 @@ C:\Users\PC\Documents\GitHub\prog_5\PROG_5-1\obj\Debug\net8.0\refint\PROG_5-1.dl
 C:\Users\PC\Documents\GitHub\prog_5\PROG_5-1\obj\Debug\net8.0\PROG_5-1.pdb
 C:\Users\PC\Documents\GitHub\prog_5\PROG_5-1\obj\Debug\net8.0\PROG_5-1.genruntimeconfig.cache
 C:\Users\PC\Documents\GitHub\prog_5\PROG_5-1\obj\Debug\net8.0\ref\PROG_5-1.dll
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-1\obj\Debug\net8.0\PROG_5-1.sourcelink.json
