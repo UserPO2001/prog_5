@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\bin\Debug\net8.0\HouseAreaCalculation.exe
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\bin\Debug\net8.0\HouseAreaCalculation.deps.json
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\bin\Debug\net8.0\HouseAreaCalculation.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\bin\Debug\net8.0\HouseAreaCalculation.dll
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\bin\Debug\net8.0\HouseAreaCalculation.pdb
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\obj\Debug\net8.0\HouseAreaCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\obj\Debug\net8.0\HouseAreaCalculation.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\obj\Debug\net8.0\HouseAreaCalculation.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\obj\Debug\net8.0\HouseAreaCalculation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\obj\Debug\net8.0\HouseAreaCalculation.sourcelink.json
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\obj\Debug\net8.0\HouseAreaCalculation.dll
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\obj\Debug\net8.0\refint\HouseAreaCalculation.dll
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\obj\Debug\net8.0\HouseAreaCalculation.pdb
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\obj\Debug\net8.0\HouseAreaCalculation.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-2\HouseAreaCalculation\obj\Debug\net8.0\ref\HouseAreaCalculation.dll

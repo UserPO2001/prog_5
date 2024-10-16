@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 
 class Student
 {
     // Class members (attributes) of Student
     public string Name;
     public int Age;
-    public string Education;
+    public string Grade;
     public string Major;
 
    

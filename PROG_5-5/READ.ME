@@ -1,0 +1,38 @@
+# Language Speaking Application
+
+This project demonstrates key Object-Oriented Programming (OOP) concepts through the implementation of a language speaking application. It showcases the following OOP principles:
+
+## OOP Concepts Covered
+
+1. **Abstraction**
+   - **Definition**: Abstraction refers to the concept of hiding the complex implementation details and showing only the essential features of an object.
+   - **Implementation in Code**: 
+     - An abstract class `Speak` is created, which defines a general behavior for all languages through the method `SpeakSomething()`, providing a default message.
+     - Subclasses (e.g., `Afrikaans`, `English`, `German`, `French`) can customize this behavior by overriding the method, thus hiding unnecessary details and focusing on essential methods.
+
+2. **Polymorphism**
+   - **Definition**: Polymorphism allows objects of different types to be treated as objects of a common superclass, enabling methods in derived classes to have different implementations for the same method signature.
+   - **Implementation in Code**: 
+     - Polymorphism is achieved by referencing derived classes through the base class `Speak`.
+     - A `Speak[]` array stores different language objects, and iterating over this array calls the overridden methods specific to each derived class.
+     - The check `if (speaker is Language lang)` ensures that `ShowLanguage()` is invoked based on the object's implementation of the `Language` interface, demonstrating runtime polymorphism.
+
+3. **Inheritance**
+   - **Definition**: Inheritance allows a class to inherit properties and methods from another class, facilitating code reuse and creating hierarchical relationships between classes.
+   - **Implementation in Code**: 
+     - Language-specific classes (`Afrikaans`, `English`, `German`, `French`) inherit from the abstract base class `Speak`.
+     - These classes inherit the `SpeakSomething()` method, overriding it to provide a unique implementation for each language.
+
+4. **Interfaces**
+   - **Definition**: An interface defines a contract that implementing classes must fulfill, specifying method signatures without providing implementation.
+   - **Implementation in Code**: 
+     - The `Language` interface defines a contract that all language classes must implement by providing their own version of the `ShowLanguage()` method.
+     - This demonstrates the use of interfaces to enforce behaviors across unrelated classes while maintaining flexibility in implementation.
+
+5. **Method Overriding**
+   - **Definition**: Method overriding allows a subclass to provide a specific implementation of a method already defined in its superclass.
+   - **Implementation in Code**: 
+     - The `SpeakSomething()` method in the `Speak` class is marked as `virtual`, allowing derived classes to override it.
+     - Each language class overrides this method using the `override` keyword, providing a language-specific message while maintaining the same method signature.
+
+#
