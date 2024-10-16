@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\bin\Debug\net8.0\PROG_5-6_PRACTICE.exe
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\bin\Debug\net8.0\PROG_5-6_PRACTICE.deps.json
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\bin\Debug\net8.0\PROG_5-6_PRACTICE.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\bin\Debug\net8.0\PROG_5-6_PRACTICE.dll
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\bin\Debug\net8.0\PROG_5-6_PRACTICE.pdb
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\obj\Debug\net8.0\PROG_5-6_PRACTICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\obj\Debug\net8.0\PROG_5-6_PRACTICE.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\obj\Debug\net8.0\PROG_5-6_PRACTICE.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\obj\Debug\net8.0\PROG_5-6_PRACTICE.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\obj\Debug\net8.0\PROG_5-6_PRACTICE.sourcelink.json
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\obj\Debug\net8.0\PROG_5-6_PRACTICE.dll
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\obj\Debug\net8.0\refint\PROG_5-6_PRACTICE.dll
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\obj\Debug\net8.0\PROG_5-6_PRACTICE.pdb
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\obj\Debug\net8.0\PROG_5-6_PRACTICE.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6_Practice\obj\Debug\net8.0\ref\PROG_5-6_PRACTICE.dll
