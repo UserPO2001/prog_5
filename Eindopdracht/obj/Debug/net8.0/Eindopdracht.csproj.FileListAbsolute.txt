@@ -1,0 +1,15 @@
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/bin/Debug/net8.0/Eindopdracht
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/bin/Debug/net8.0/Eindopdracht.deps.json
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/bin/Debug/net8.0/Eindopdracht.runtimeconfig.json
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/bin/Debug/net8.0/Eindopdracht.dll
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/bin/Debug/net8.0/Eindopdracht.pdb
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/obj/Debug/net8.0/Eindopdracht.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/obj/Debug/net8.0/Eindopdracht.AssemblyInfoInputs.cache
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/obj/Debug/net8.0/Eindopdracht.AssemblyInfo.cs
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/obj/Debug/net8.0/Eindopdracht.csproj.CoreCompileInputs.cache
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/obj/Debug/net8.0/Eindopdracht.sourcelink.json
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/obj/Debug/net8.0/Eindopdracht.dll
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/obj/Debug/net8.0/refint/Eindopdracht.dll
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/obj/Debug/net8.0/Eindopdracht.pdb
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/obj/Debug/net8.0/Eindopdracht.genruntimeconfig.cache
+/Users/peteroosterbroek/Documents/GitHub/prog_5/Eindopdracht/obj/Debug/net8.0/ref/Eindopdracht.dll

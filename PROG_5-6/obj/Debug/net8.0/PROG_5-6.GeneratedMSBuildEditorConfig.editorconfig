@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PROG_5_6
-build_property.ProjectDir = C:\Users\PC\Documents\GitHub\prog_5\PROG_5-6\
+build_property.ProjectDir = /Users/peteroosterbroek/Documents/GitHub/prog_5/PROG_5-6/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

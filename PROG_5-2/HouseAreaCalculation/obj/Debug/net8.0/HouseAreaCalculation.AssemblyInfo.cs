@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HouseAreaCalculation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df1d8b75b8fe5142f4c9a3ef54797f2f757b2cb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cda24209698aebfaf96c18bcd837931645161bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("HouseAreaCalculation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HouseAreaCalculation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
